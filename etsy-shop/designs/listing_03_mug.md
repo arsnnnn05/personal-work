@@ -4,7 +4,7 @@ Print file: `print_03_frohe_wauchnachten_mug.png` (dog left, text right).
 Use `print_03_frohe_wauchnachten_stacked.png` for the sweatshirt/tote versions.
 Price: €24 + €4.90 shipping ≈ €7.90 profit (see `tools/price_calc.py`; re-run with your real Printify costs).
 
-Fill in `[…]` from the Printify product page before publishing (capacity, dishwasher/microwave, provider).
+Only `[…]` left: keep the dishwasher/microwave line only if the Printify product page says so (remove the brackets), otherwise delete it.
 
 ---
 
@@ -19,11 +19,11 @@ Für alle, die wissen: Der Dackel hat immer recht. Auch an Weihnachten.
 
 Fritz trägt seinen besten Weihnachtspullover und ist sehr zufrieden mit sich. Die perfekte Tasse für Dackelmamas, Dackelpapas und alle, die zu Weihnachten gern ein bisschen selbstgefällig lächeln. Ein schönes Wichtelgeschenk oder Geschenk für Hundebesitzer.
 
-• Keramiktasse, [330 ml / 11 oz], glänzend
+• Keramiktasse, 330 ml (11 oz), glänzend
 • [Spülmaschinen- und mikrowellengeeignet]
 • Motiv beidseitig sichtbar: Dackel links, Schriftzug rechts
 
-Auf Bestellung gefertigt von unserem Druckpartner OPT OnDemand, [Stadt], Tschechien. Versand in [X–Y] Werktagen.
+Auf Bestellung gefertigt von unserem Druckpartner OPT OnDemand (Tschechien). Versand in 5–10 Werktagen.
 
 Design: von mir illustriert, mit Hilfe von KI-Bildwerkzeugen erstellt und von Hand fertiggestellt.
 Widerrufsrecht 14 Tage · 2 Jahre gesetzliche Gewährleistung.
@@ -35,10 +35,10 @@ Pour ceux qui savent que le teckel a toujours raison. Même à Noël.
 
 Fritz porte son plus beau pull de Noël et il est très content de lui. Le mug idéal pour les mamans et papas de teckels, ou comme cadeau de Secret Santa. « Frohe Wauchnachten » est un jeu de mots allemand : « Joyeux Noël » croisé avec « ouaf ».
 
-• Mug en céramique, [330 ml], finition brillante
+• Mug en céramique, 330 ml, finition brillante
 • [Compatible lave-vaisselle et micro-ondes]
 
-Fabriqué à la commande par notre partenaire d'impression OPT OnDemand, [ville], République tchèque. Expédition sous [X–Y] jours ouvrés.
+Fabriqué à la commande par notre partenaire d'impression OPT OnDemand (République tchèque). Expédition sous 5 à 10 jours ouvrés.
 Design : illustré par moi, créé avec l'aide d'outils d'IA et finalisé à la main.
 Droit de rétractation 14 jours · garantie légale de conformité 2 ans.
 
@@ -49,10 +49,10 @@ For everyone who knows the dachshund is always right. Even at Christmas.
 
 Fritz is wearing his best Christmas jumper and is very pleased with himself. The perfect mug for dachshund mums and dads, or a Secret Santa gift. "Frohe Wauchnachten" is a German pun: "Merry Christmas" crossed with "woof".
 
-• Ceramic mug, [11 oz / 330 ml], glossy
+• Ceramic mug, 11 oz / 330 ml, glossy
 • [Dishwasher and microwave safe]
 
-Made to order by our print partner OPT OnDemand, [city], Czech Republic. Ships in [X–Y] business days.
+Made to order by our print partner OPT OnDemand (Czech Republic). Ships in 5–10 business days.
 Design: illustrated by me, made with the help of AI image tools and finished by hand.
 14-day right of withdrawal · 2-year legal guarantee.
 
