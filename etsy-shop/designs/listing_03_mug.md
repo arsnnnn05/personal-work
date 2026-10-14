@@ -23,7 +23,7 @@ Fritz trägt seinen besten Weihnachtspullover und ist sehr zufrieden mit sich. D
 • [Spülmaschinen- und mikrowellengeeignet]
 • Motiv beidseitig sichtbar: Dackel links, Schriftzug rechts
 
-Auf Bestellung gefertigt von unserem Druckpartner [Anbieter, Stadt, Land]. Versand in [X–Y] Werktagen.
+Auf Bestellung gefertigt von unserem Druckpartner OPT OnDemand, [Stadt], Tschechien. Versand in [X–Y] Werktagen.
 
 Design: von mir illustriert, mit Hilfe von KI-Bildwerkzeugen erstellt und von Hand fertiggestellt.
 Widerrufsrecht 14 Tage · 2 Jahre gesetzliche Gewährleistung.
@@ -38,7 +38,7 @@ Fritz porte son plus beau pull de Noël et il est très content de lui. Le mug i
 • Mug en céramique, [330 ml], finition brillante
 • [Compatible lave-vaisselle et micro-ondes]
 
-Fabriqué à la commande par notre partenaire d'impression [prestataire, ville, pays]. Expédition sous [X–Y] jours ouvrés.
+Fabriqué à la commande par notre partenaire d'impression OPT OnDemand, [ville], République tchèque. Expédition sous [X–Y] jours ouvrés.
 Design : illustré par moi, créé avec l'aide d'outils d'IA et finalisé à la main.
 Droit de rétractation 14 jours · garantie légale de conformité 2 ans.
 
@@ -52,14 +52,14 @@ Fritz is wearing his best Christmas jumper and is very pleased with himself. The
 • Ceramic mug, [11 oz / 330 ml], glossy
 • [Dishwasher and microwave safe]
 
-Made to order by our print partner [provider, city, country]. Ships in [X–Y] business days.
+Made to order by our print partner OPT OnDemand, [city], Czech Republic. Ships in [X–Y] business days.
 Design: illustrated by me, made with the help of AI image tools and finished by hand.
 14-day right of withdrawal · 2-year legal guarantee.
 
 ---
 
 ## Etsy fields
-- Who made it: **Another company or person** → production partner: Printify / [provider]
+- Who made it: **Another company or person** → production partner: Printify / OPT OnDemand (Czech Republic)
 - What is it: **A finished product**
 - AI disclosure: **yes**
 - Category: Home & Living › Kitchen & Dining › Drink & Barware › Drinkware › Mugs
